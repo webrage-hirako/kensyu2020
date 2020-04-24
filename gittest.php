@@ -8,6 +8,8 @@
 	<body>
 		welcome to hrdiv test directory.<br/>
 		横浜優勝！！<br/>
-    GITLab test.
+    GITLab test.<br/>
+
+		Hey!! I updated here!!
 	</body>
 </html>
